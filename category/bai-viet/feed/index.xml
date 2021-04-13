@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Book Store</title>
-	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<title>Bài viết &#8211; Book Store</title>
+	<atom:link href="http://localhost/wordpress/category/bai-viet/feed/" rel="self" type="application/rss+xml" />
 	<link>https://huu1995vn.github.io/publish-wordpress</link>
 	<description></description>
 	<lastBuildDate>Tue, 13 Apr 2021 10:22:30 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://huu1995vn.github.io/publish-wordpress/wp-content/uploads/2021/04/cropped-logo-32x32.png</url>
-	<title>Book Store</title>
+	<title>Bài viết &#8211; Book Store</title>
 	<link>https://huu1995vn.github.io/publish-wordpress</link>
 	<width>32</width>
 	<height>32</height>
@@ -43,26 +43,6 @@
 					
 					<wfw:commentRss>https://huu1995vn.github.io/publish-wordpress/2021/04/13/new-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Xin chào</title>
-		<link>https://huu1995vn.github.io/publish-wordpress/2021/04/13/hello-world/</link>
-					<comments>https://huu1995vn.github.io/publish-wordpress/2021/04/13/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[huu1995vn]]></dc:creator>
-		<pubDate>Tue, 13 Apr 2021 08:48:01 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://huu1995vn.github.io/publish-wordpress/?p=1</guid>
-
-					<description><![CDATA[Chào mừng bạn đến với WordPress. Đây là bài viết đầu tiên của bạn. Chỉnh sửa hoặc xóa nó, sau đó bắt đầu viết!]]></description>
-										<content:encoded><![CDATA[
-<p>Chào mừng bạn đến với WordPress. Đây là bài viết đầu tiên của bạn. Chỉnh sửa hoặc xóa nó, sau đó bắt đầu viết!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://huu1995vn.github.io/publish-wordpress/2021/04/13/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
