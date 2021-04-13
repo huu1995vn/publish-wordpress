@@ -10,7 +10,7 @@
 <channel>
 	<title>huu1995vn &#8211; Demo WordPress</title>
 	<atom:link href="http://localhost/wordpress/author/huu1995vn/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://huu1995vn.github.io/wordpress</link>
+	<link>https://huu1995vn.github.io/publish-wordpress</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 13 Apr 2021 08:48:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://https://huu1995vn.github.io/wordpress/2021/04/13/hello-world/</link>
-					<comments>http://https://huu1995vn.github.io/wordpress/2021/04/13/hello-world/#comments</comments>
+		<link>https://huu1995vn.github.io/publish-wordpress/2021/04/13/hello-world/</link>
+					<comments>https://huu1995vn.github.io/publish-wordpress/2021/04/13/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[huu1995vn]]></dc:creator>
 		<pubDate>Tue, 13 Apr 2021 08:48:01 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://https://huu1995vn.github.io/wordpress/?p=1</guid>
+		<guid isPermaLink="false">https://huu1995vn.github.io/publish-wordpress/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://huu1995vn.github.io/wordpress/2021/04/13/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://huu1995vn.github.io/publish-wordpress/2021/04/13/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
